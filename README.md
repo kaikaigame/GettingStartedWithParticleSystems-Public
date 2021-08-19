@@ -13,11 +13,11 @@ https://unity.cn/projects/getting-started-with-particle-systems
   
 https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325  
   
-https://assetstore.unity.com/packages/vfx/particles/fire-explosions/inferno-vfx-50735#content  
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/inferno-vfx-50735  
   
 https://assetstore.unity.com/packages/tools/utilities/third-person-controller-basic-locomotion-free-82048  
   
-https://assetstore.unity.com/packages/3d/props/weapons/fantasy-moon-sword-155333#content  
+https://assetstore.unity.com/packages/3d/props/weapons/fantasy-moon-sword-155333  
     
-Unity m_EditorVersion:  2021.1.12f1  
+Unity m_EditorVersion:  2021.1.17f1  
   

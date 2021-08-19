@@ -244,7 +244,7 @@ PrefabInstance:
     - target: {fileID: 3921435030623782706, guid: 965f0473bbb7a7342b83137331b16674,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3921435030623782711, guid: 965f0473bbb7a7342b83137331b16674,
         type: 3}
@@ -974,6 +974,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
