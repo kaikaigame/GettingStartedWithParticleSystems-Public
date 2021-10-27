@@ -19,5 +19,5 @@ https://assetstore.unity.com/packages/tools/utilities/third-person-controller-ba
   
 https://assetstore.unity.com/packages/3d/props/weapons/fantasy-moon-sword-155333  
     
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
